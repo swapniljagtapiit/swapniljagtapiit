@@ -1,7 +1,5 @@
-[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDVIUUZlTkVHOTZuclNwSmtSa2lCTWQwNjdvd3xBQ3Jtc0trbDVrbjg1QzIzVlE4QmVFZ1FsRGxPMXpwcEdvNXFFR2RMSER6dzdGaGJpVms2UExIQl8zWFFfNU1VaUx3OWFudm1ldDRwUDVDTFdHVXl4MkNUMnhVVGRkY1VEOWlraThfVUVKNmowcXdBYnpNdFZ2Yw&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Swapnil Jagtap</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjlPRG92b2hvenNBYUZpVlE1Q0RBWENycmhXUXxBQ3Jtc0ttR1ZrQ0kzLVk0TVpFQ2k0enF6M25oLTdDZU5PSDZkNGhxb2dRVWlmazl5eFRfQ1BUdUx4RHktVWtVVWJEdFJNX1lpT2FsdXlud1drT2ZvVF9zcDEyZHV0ZFZ3RlZHTVJPbWFNcDdKT2s2RlhoZzF1RQ&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE.">
 
 - 🌱 I’m currently learning **Cloud Technologies**
 
@@ -15,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/swapnil-jagtap-590022210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/swapnil-jagtap-590022210" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/swapnil-jagtap-590022210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil-jagtap-590022210" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
