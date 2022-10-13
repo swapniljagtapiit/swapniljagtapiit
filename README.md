@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **swapniljagtapiit@gmail.com**
 
-- 📄 Know about my experiences (Resume link) [https://drive.google.com/file/d/12qORLYFeachFAyVf3CH6vjr4xRqmLeAx/view?usp=sharing](https://drive.google.com/file/d/1V0xD85sv71Xs0DunglEt9eIOJQT6xeOg/view?usp=sharing)
+- 📄 Know about my experiences (Resume link) [https://drive.google.com/file/d/12qORLYFeachFAyVf3CH6vjr4xRqmLeAx/view?usp=sharing](https://drive.google.com/file/d/12qORLYFeachFAyVf3CH6vjr4xRqmLeAx/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am quick learner.**
 
